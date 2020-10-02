@@ -22,8 +22,8 @@ His research interests include biomedical readout amplifiers and data converters
 <hr style="margin-top:-8px; border-width: 2px">
 <div>
 <span>
+[<i class="fa fa-file-pdf"></i> ](https://github.com/Qiuyanglin/Qiuyanglin/files/papers/paper2020_WearableMultipleModality)
 **Wearable Multiple Modality Bio-signal Recording and Processing on Chip: A Review**
-[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2020_WearableMultipleModality)
 </span><br>
 <span>
 <u>Qiuyang Lin</u>, Shuang Song, Ivan D Castro, Hui Jiang
@@ -36,9 +36,8 @@ His research interests include biomedical readout amplifiers and data converters
 
 <div>
 <span>
-**A 50W Fully Differential Interface Amplifier With a Current Steering Class AB Output Stage for PPG
-and NIRS Recordings**
-[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2020_50WFully.pdf)
+[<i class="fa fa-file-pdf"></i> ](https://github.com/Qiuyanglin/Qiuyanglin/files/papers/paper2020_50WFully.pdf)
+**A 50W Fully Differential Interface Amplifier With a Current Steering Class AB Output Stage for PPG and NIRS Recordings**
 </span><br>
 <span>
 Shuang Song, <u>Qiuyang Lin</u>, Chris van Hoof, Nick van Helleputte 
@@ -51,9 +50,8 @@ Shuang Song, <u>Qiuyang Lin</u>, Chris van Hoof, Nick van Helleputte
 
 <div>
 <span>
-**A 119dB Dynamic Range Charge Counting Light-to-Digital Converter For Wearable PPG/NIRS
-Monitoring Applications**
-[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2020_119db.pdf)
+[<i class="fa fa-file-pdf"></i> ](https://github.com/Qiuyanglin/Qiuyanglin/files/papers/paper2020_119db.pdf)
+**A 119dB Dynamic Range Charge Counting Light-to-Digital Converter For Wearable PPG/NIRS Monitoring Applications**
 </span><br>
 <span>
 <u>Qiuyang Lin</u>, Jiawei Xu, Shuang Song, Arjan Breeschoten, Mario Konijnenburg, Chris Van Hoof
@@ -67,9 +65,8 @@ Monitoring Applications**
 
 <div>
 <span>
-**A 196W, Reconfigurable Light-to-Digital Converter with 119dB Dynamic Range, for Wearable
-PPG/NIRS Sensors**
-[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2019_196W.pdf)
+[<i class="fa fa-file-pdf"></i> ](https://github.com/Qiuyanglin/Qiuyanglin/files/papers/paper2019_196W.pdf)
+**A 196W, Reconfigurable Light-to-Digital Converter with 119dB Dynamic Range, for Wearable PPG/NIRS Sensors**
 </span><br>
 <span>
 <u>Qiuyang Lin</u>, Jiawei Xu, Shuang Song, Arjan Breeschoten, Mario Konijnenburg, Mingyi Chen, Chris Van Hoof, Filip Tavernier, Nick Van Helleputte
@@ -82,8 +79,8 @@ PPG/NIRS Sensors**
 
 <div>
 <span>
+[<i class="fa fa-file-pdf"></i> ](https://github.com/Qiuyanglin/Qiuyanglin/files/papers/paper2019_400G.pdf)
 **A 400G input-impedance active electrode for non-contact capacitively coupled ECG acquisition with large linear-input-range and high CM-interference-tolerance**
-[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2019_400G.pdf)
 </span><br>
 <span>
 Mingyi Chen, Ho Sung Chun, Ivan Dario Castro, Tom Torfs, <u>Qiuyang Lin</u>, Chris Van Hoof, Guoxing Wang, Yong Lian, Nick Van Helleputte
@@ -97,8 +94,8 @@ Mingyi Chen, Ho Sung Chun, Ivan Dario Castro, Tom Torfs, <u>Qiuyang Lin</u>, Chr
 
 <div>
 <span>
+[<i class="fa fa-file-pdf"></i> ](https://github.com/Qiuyanglin/Qiuyanglin/files/papers/paper2018_CMOS.pdf)
 **A 0.6V 3.8W ECG/bio-impedance monitoring IC for disposable health patch in 40nm CMOS**
-[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2018_CMOS.pdf)
 </span><br>
 <span>
 Mingyi Chen, Ivan Dario Castro, <u>Qiuyang Lin</u>, Tom Torfs, Filip Tavernier, Chris Van Hoof, Nick Van
@@ -113,8 +110,8 @@ Helleputte
 
 <div>
 <span>
+[<i class="fa fa-file-pdf"></i> ](https://github.com/Qiuyanglin/Qiuyanglin/files/papers/paper2018_400G.pdf)
 **A 400G Input-Impedance, 220MVpp Linear-Input-Range, 2.8Vpp CM-Interference-Tolerant Active Electrode for Non-Contact Capacitively Coupled ECG Acquisition**
-[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2018_400G.pdf)
 </span><br>
 <span>
 Jiawei Xu, <u>Qiuyang Lin</u>, Ming Ding, Yao Li, Chris Van Hoof, Wouter Serdijn, Nick Van Helleputte
