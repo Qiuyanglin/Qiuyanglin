@@ -1,0 +1,216 @@
+---
+---
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+# About me
+<hr style="margin-top:-8px; border-width: 2px">
+
+<div>
+<img src="files/profile.jpg" style="width:10%; margin-right: 30px" align="left">
+
+Qiuyang Lin received the B.S. degree in electrical engineering  from Dalian University of Technology, Dalian, China, in 2014, and the M.S. degree in electrical engineering from Delft University of Technology, Delft, The Netherlands, in 2016, respectively. 
+
+He then joined IMEC, Leuven, Belgium, and Katholieke Universiteit Leuven, Belgium, where he is currently working towrad a Ph.D. degree in biomedical integrated circuit design. 
+
+His research interests include biomedical readout amplifiers and data converters, low-power, low-noise, mixed-signal circuits and systems for optical sensors and other wearable biomedical applications.
+</div>
+
+
+
+# Publication
+<hr style="margin-top:-8px; border-width: 2px">
+<div>
+<span>
+**Wearable Multiple Modality Bio-signal Recording and Processing on Chip: A Review**
+[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2020_WearableMultipleModality)
+</span><br>
+<span>
+<u>Qiuyang Lin</u>, Shuang Song, Ivan D Castro, Hui Jiang
+</span><br>
+<span>
+*IEEE Sensors Journal, 2020*
+</span><br>
+</p>
+</div>
+
+<div>
+<span>
+**A 50W Fully Differential Interface Amplifier With a Current Steering Class AB Output Stage for PPG
+and NIRS Recordings**
+[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2020_50WFully.pdf)
+</span><br>
+<span>
+Shuang Song, <u>Qiuyang Lin</u>, Chris van Hoof, Nick van Helleputte 
+</span><br>
+<span>
+*IEEE Transactions on Circuits and Systems II: Express Briefs, 2020*
+</span><br>
+</p>
+</div>
+
+<div>
+<span>
+**A 119dB Dynamic Range Charge Counting Light-to-Digital Converter For Wearable PPG/NIRS
+Monitoring Applications**
+[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2020_119db.pdf)
+</span><br>
+<span>
+<u>Qiuyang Lin</u>, Jiawei Xu, Shuang Song, Arjan Breeschoten, Mario Konijnenburg, Chris Van Hoof
+</span><br>
+<span>
+*IEEE Transactions on Biomedical Circuits and Systems, 2020*
+</span><br>
+</p>
+</div>
+
+
+<div>
+<span>
+**A 196W, Reconfigurable Light-to-Digital Converter with 119dB Dynamic Range, for Wearable
+PPG/NIRS Sensors**
+[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2019_196W.pdf)
+</span><br>
+<span>
+<u>Qiuyang Lin</u>, Jiawei Xu, Shuang Song, Arjan Breeschoten, Mario Konijnenburg, Mingyi Chen, Chris Van Hoof, Filip Tavernier, Nick Van Helleputte
+</span><br>
+<span>
+*IEEE Symposium on VLSI Circuits, 2019*
+</span><br>
+</p>
+</div>
+
+<div>
+<span>
+**A 400G input-impedance active electrode for non-contact capacitively coupled ECG acquisition with large linear-input-range and high CM-interference-tolerance**
+[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2019_400G.pdf)
+</span><br>
+<span>
+Mingyi Chen, Ho Sung Chun, Ivan Dario Castro, Tom Torfs, <u>Qiuyang Lin</u>, Chris Van Hoof, Guoxing Wang, Yong Lian, Nick Van Helleputte
+</span><br>
+<span>
+*IEEE Transactions on biomedical circuits and systems, 2019*
+</span><br>
+</p>
+</div>
+
+
+<div>
+<span>
+**A 0.6V 3.8W ECG/bio-impedance monitoring IC for disposable health patch in 40nm CMOS**
+[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2018_CMOS.pdf)
+</span><br>
+<span>
+Mingyi Chen, Ivan Dario Castro, <u>Qiuyang Lin</u>, Tom Torfs, Filip Tavernier, Chris Van Hoof, Nick Van
+Helleputte
+</span><br>
+<span>
+*IEEE Custom Integrated Circuits Conference (CICC), 2018*
+</span><br>
+</p>
+</div>
+
+
+<div>
+<span>
+**A 400G Input-Impedance, 220MVpp Linear-Input-Range, 2.8Vpp CM-Interference-Tolerant Active Electrode for Non-Contact Capacitively Coupled ECG Acquisition**
+[<i class="fa fa-file-pdf"></i>](https://github.com/Qiuyanglin/files/papers/paper2018_400G.pdf)
+</span><br>
+<span>
+Jiawei Xu, <u>Qiuyang Lin</u>, Ming Ding, Yao Li, Chris Van Hoof, Wouter Serdijn, Nick Van Helleputte
+</span><br>
+<span>
+*IEEE Symposium on VLSI Circuits, 2018*
+</span><br>
+</p>
+</div>
+
+
+
+
+# Education
+<hr style="margin-top:-8px; border-width: 2px">
+
+<div>
+<span>
+[<i class="fa fa-university"></i> ](https://www.esat.kuleuven.be/micas/)
+**IMEC, BECHS; KUL, EAST-MICAS**
+</span><br>
+<span>
+<u>*PhD candidate in Microelectronics*</u>
+<span><br>
+<span>
+Supervised by [Prof. Chris Van Hoof](https://scholar.google.com/citations?user=OiSiLl8AAAAJ&hl=en) and [Prof. Filip Tavernier](http://scholar.google.ch/citations?user=Tm6IOWwAAAAJ&hl=en)
+</span><br>
+<span>
+*Dec 2016 - Present, Leuven, Belgium*
+</span><br>
+</p>
+</div>
+
+
+<div>
+<span>
+[<i class="fa fa-university"></i> ](https://www.tudelft.nl/en/)
+**Delft University of Technology, EWI**
+</span><br>
+<span>
+<u>*Master of Engineering in Microelectronics*</u>
+<span><br>
+<span>
+Supervised by [Prof. Wouter Serdijn](https://scholar.google.com/citations?user=ZLxC4EMAAAAJ&hl=en)
+</span><br>
+<span>
+*Sep 2014 - Oct 2016, Delft, The Netherlands*
+</span><br>
+</p>
+</div>
+
+
+
+<div>
+<span>
+[<i class="fa fa-university"></i> ](https://en.dlut.edu.cn/)
+**Dalian University of Technology, EECS**
+</span><br>
+<span>
+<u>*Bachelor of Engineering in Microelectronics*</u>
+<span><br>
+<span>
+*Aug 2010 - Jun 2014, Dalian, China*
+</span><br>
+</p>
+</div>
+
+
+# Patent
+<hr style="margin-top:-8px; border-width: 2px">
+
+<div>
+<span>
+**Dual-slope LDC for DR range PPG and NIRS readout, US 16886714**
+</span><br>
+<span>
+<u>Qiuyang Lin</u>, Jiawei Xu, Nick Van Helleputte, Shuang Song, Filip Tavernier
+<span><br>
+<span>
+*May 2020*
+<span><br>
+</p>
+</div>
+
+# Internship
+<hr style="margin-top:-8px; border-width: 2px">
+<div>
+<span>
+[<i class="fa fa-university"></i> ](https://www.imec-int.com/en) 
+**IMEC, Holst center**
+</span><br>
+<span>
+Supervised by [Dr. Jiawei Xu](https://ieeexplore.ieee.org/author/38007163700)
+</span><br>
+<span>
+*Sep 2015 - Sep 2016, Eindhoven, The Netherlands*
+</span><br>
+</p>
+</div>

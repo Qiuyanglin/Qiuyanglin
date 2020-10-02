@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>index.utf8</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 41px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h2 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h3 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h4 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h5 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h6 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">LIN Qiu-yang</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://github.com/Qiuyanglin">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://scholar.google.be/citations?user=YajWlVQAAAAJ&amp;hl=en"></a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<div id="about-me" class="section level1">
+<h1>About me</h1>
+<hr style="margin-top:-8px; border-width: 2px">
+<div>
+<p><img src="files/profile.jpg" style="width:10%; margin-right: 30px" align="left"></p>
+<p>Qiuyang Lin received the B.S. degree in electrical engineering from Dalian University of Technology, Dalian, China, in 2014, and the M.S. degree in electrical engineering from Delft University of Technology, Delft, The Netherlands, in 2016, respectively.</p>
+<p>He then joined IMEC, Leuven, Belgium, and Katholieke Universiteit Leuven, Belgium, where he is currently working towrad a Ph.D. degree in biomedical integrated circuit design.</p>
+<p>His research interests include biomedical readout amplifiers and data converters, low-power, low-noise, mixed-signal circuits and systems for optical sensors and other wearable biomedical applications.</p>
+</div>
+</div>
+<div id="publication" class="section level1">
+<h1>Publication</h1>
+<hr style="margin-top:-8px; border-width: 2px">
+<div>
+<span> <strong>Wearable Multiple Modality Bio-signal Recording and Processing on Chip: A Review</strong> <a href="https://github.com/Qiuyanglin/files/papers/paper2020_WearableMultipleModality"><i class="fa fa-file-pdf"></i></a> </span><br> <span> <u>Qiuyang Lin</u>, Shuang Song, Ivan D Castro, Hui Jiang </span><br> <span> <em>IEEE Sensors Journal, 2020</em> </span><br>
+</p>
+</div>
+<div>
+<span> <strong>A 50W Fully Differential Interface Amplifier With a Current Steering Class AB Output Stage for PPG and NIRS Recordings</strong> <a href="https://github.com/Qiuyanglin/files/papers/paper2020_50WFully.pdf"><i class="fa fa-file-pdf"></i></a> </span><br> <span> Shuang Song, <u>Qiuyang Lin</u>, Chris van Hoof, Nick van Helleputte </span><br> <span> <em>IEEE Transactions on Circuits and Systems II: Express Briefs, 2020</em> </span><br>
+</p>
+</div>
+<div>
+<span> <strong>A 119dB Dynamic Range Charge Counting Light-to-Digital Converter For Wearable PPG/NIRS Monitoring Applications</strong> <a href="https://github.com/Qiuyanglin/files/papers/paper2020_119db.pdf"><i class="fa fa-file-pdf"></i></a> </span><br> <span> <u>Qiuyang Lin</u>, Jiawei Xu, Shuang Song, Arjan Breeschoten, Mario Konijnenburg, Chris Van Hoof </span><br> <span> <em>IEEE Transactions on Biomedical Circuits and Systems, 2020</em> </span><br>
+</p>
+</div>
+<div>
+<span> <strong>A 196W, Reconfigurable Light-to-Digital Converter with 119dB Dynamic Range, for Wearable PPG/NIRS Sensors</strong> <a href="https://github.com/Qiuyanglin/files/papers/paper2019_196W.pdf"><i class="fa fa-file-pdf"></i></a> </span><br> <span> <u>Qiuyang Lin</u>, Jiawei Xu, Shuang Song, Arjan Breeschoten, Mario Konijnenburg, Mingyi Chen, Chris Van Hoof, Filip Tavernier, Nick Van Helleputte </span><br> <span> <em>IEEE Symposium on VLSI Circuits, 2019</em> </span><br>
+</p>
+</div>
+<div>
+<span> <strong>A 400G input-impedance active electrode for non-contact capacitively coupled ECG acquisition with large linear-input-range and high CM-interference-tolerance</strong> <a href="https://github.com/Qiuyanglin/files/papers/paper2019_400G.pdf"><i class="fa fa-file-pdf"></i></a> </span><br> <span> Mingyi Chen, Ho Sung Chun, Ivan Dario Castro, Tom Torfs, <u>Qiuyang Lin</u>, Chris Van Hoof, Guoxing Wang, Yong Lian, Nick Van Helleputte </span><br> <span> <em>IEEE Transactions on biomedical circuits and systems, 2019</em> </span><br>
+</p>
+</div>
+<div>
+<span> <strong>A 0.6V 3.8W ECG/bio-impedance monitoring IC for disposable health patch in 40nm CMOS</strong> <a href="https://github.com/Qiuyanglin/files/papers/paper2018_CMOS.pdf"><i class="fa fa-file-pdf"></i></a> </span><br> <span> Mingyi Chen, Ivan Dario Castro, <u>Qiuyang Lin</u>, Tom Torfs, Filip Tavernier, Chris Van Hoof, Nick Van Helleputte </span><br> <span> <em>IEEE Custom Integrated Circuits Conference (CICC), 2018</em> </span><br>
+</p>
+</div>
+<div>
+<span> <strong>A 400G Input-Impedance, 220MVpp Linear-Input-Range, 2.8Vpp CM-Interference-Tolerant Active Electrode for Non-Contact Capacitively Coupled ECG Acquisition</strong> <a href="https://github.com/Qiuyanglin/files/papers/paper2018_400G.pdf"><i class="fa fa-file-pdf"></i></a> </span><br> <span> Jiawei Xu, <u>Qiuyang Lin</u>, Ming Ding, Yao Li, Chris Van Hoof, Wouter Serdijn, Nick Van Helleputte </span><br> <span> <em>IEEE Symposium on VLSI Circuits, 2018</em> </span><br>
+</p>
+</div>
+</div>
+<div id="education" class="section level1">
+<h1>Education</h1>
+<hr style="margin-top:-8px; border-width: 2px">
+<div>
+<span> <a href="https://www.esat.kuleuven.be/micas/"><i class="fa fa-university"></i></a> <strong>IMEC, BECHS; KUL, EAST-MICAS</strong> </span><br> <span> <u><em>PhD candidate in Microelectronics</em></u> <span><br> <span> Supervised by <a href="https://scholar.google.com/citations?user=OiSiLl8AAAAJ&amp;hl=en">Prof. Chris Van Hoof</a> and <a href="http://scholar.google.ch/citations?user=Tm6IOWwAAAAJ&amp;hl=en">Prof. Filip Tavernier</a> </span><br> <span> <em>Dec 2016 - Present, Leuven, Belgium</em> </span><br>
+</p>
+</div>
+<div>
+<span> <a href="https://www.tudelft.nl/en/"><i class="fa fa-university"></i></a> <strong>Delft University of Technology, EWI</strong> </span><br> <span> <u><em>Master of Engineering in Microelectronics</em></u> <span><br> <span> Supervised by <a href="https://scholar.google.com/citations?user=ZLxC4EMAAAAJ&amp;hl=en">Prof. Wouter Serdijn</a> </span><br> <span> <em>Sep 2014 - Oct 2016, Delft, The Netherlands</em> </span><br>
+</p>
+</div>
+<div>
+<span> <a href="https://en.dlut.edu.cn/"><i class="fa fa-university"></i></a> <strong>Dalian University of Technology, EECS</strong> </span><br> <span> <u><em>Bachelor of Engineering in Microelectronics</em></u> <span><br> <span> <em>Aug 2010 - Jun 2014, Dalian, China</em> </span><br>
+</p>
+</div>
+</div>
+<div id="patent" class="section level1">
+<h1>Patent</h1>
+<hr style="margin-top:-8px; border-width: 2px">
+<div>
+<span> <strong>Dual-slope LDC for DR range PPG and NIRS readout, US 16886714</strong> </span><br> <span> <u>Qiuyang Lin</u>, Jiawei Xu, Nick Van Helleputte, Shuang Song, Filip Tavernier <span><br> <span> <em>May 2020</em> <span><br>
+</p>
+</div>
+</div>
+<div id="internship" class="section level1">
+<h1>Internship</h1>
+<hr style="margin-top:-8px; border-width: 2px">
+<div>
+<span> <a href="https://www.imec-int.com/en"><i class="fa fa-university"></i></a> <strong>IMEC, Holst center</strong> </span><br> <span> Supervised by <a href="https://ieeexplore.ieee.org/author/38007163700">Dr. Jiawei Xu</a> </span><br> <span> <em>Sep 2015 - Sep 2016, Eindhoven, The Netherlands</em> </span><br>
+</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
