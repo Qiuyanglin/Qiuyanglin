@@ -98,8 +98,7 @@ Mingyi Chen, Ho Sung Chun, Ivan Dario Castro, Tom Torfs, <u>Qiuyang Lin</u>, Chr
 **A 0.6V 3.8W ECG/bio-impedance monitoring IC for disposable health patch in 40nm CMOS**
 </span><br>
 <span>
-Mingyi Chen, Ivan Dario Castro, <u>Qiuyang Lin</u>, Tom Torfs, Filip Tavernier, Chris Van Hoof, Nick Van
-Helleputte
+Jiawei Xu, <u>Qiuyang Lin</u>, Ming Ding, Yao Li, Chris Van Hoof, Wouter Serdijn, Nick Van Helleputte
 </span><br>
 <span>
 *IEEE Custom Integrated Circuits Conference (CICC), 2018*
@@ -114,7 +113,8 @@ Helleputte
 **A 400G Input-Impedance, 220MVpp Linear-Input-Range, 2.8Vpp CM-Interference-Tolerant Active Electrode for Non-Contact Capacitively Coupled ECG Acquisition**
 </span><br>
 <span>
-Jiawei Xu, <u>Qiuyang Lin</u>, Ming Ding, Yao Li, Chris Van Hoof, Wouter Serdijn, Nick Van Helleputte
+Mingyi Chen, Ivan Dario Castro, <u>Qiuyang Lin</u>, Tom Torfs, Filip Tavernier, Chris Van Hoof, Nick Van
+Helleputte
 </span><br>
 <span>
 *IEEE Symposium on VLSI Circuits, 2018*
