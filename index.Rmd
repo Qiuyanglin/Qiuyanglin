@@ -184,7 +184,7 @@ Supervised by [Prof. Wouter Serdijn](https://scholar.google.com/citations?user=Z
 <div>
 <span>
 [<i class="fa fa-microchip"></i> ]()
-**Dual-slope LDC for DR range PPG and NIRS readout, US 16886714**
+**Dual-slope LDC for high DR range PPG and NIRS readout, US 16886714**
 </span><br>
 <span>
 <u>Qiuyang Lin</u>, Jiawei Xu, Nick Van Helleputte, Shuang Song, Filip Tavernier
