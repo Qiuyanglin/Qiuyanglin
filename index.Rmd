@@ -9,11 +9,11 @@ pagetitle: LIN Qiu-yang
 <div>
 <img src="files/profile.jpg" style="width:10%; margin-right: 30px" align="left">
 
-Qiuyang Lin received the B.S. degree in electrical engineering  from Dalian University of Technology, Dalian, China, in 2014, and the M.S. degree in electrical engineering from Delft University of Technology, Delft, The Netherlands, in 2016, respectively. 
+Qiuyang Lin received the B.S. degree in electrical engineering  from Dalian University of Technology, Dalian, China, in 2014, and the M.S. degree in electrical engineering from Delft University of Technology, Delft, The Netherlands, in 2016, and Ph.D in MICAS LAB, Katholieke Universiteit Leuven, Belgium. 
 
-He then joined IMEC, Leuven, Belgium, and Katholieke Universiteit Leuven, Belgium, where he is currently working towrad a Ph.D. degree in biomedical integrated circuit design. 
+He then joined IMEC, Leuven, Belgium, as researcher and senior researcher since Feb 2021.
 
-His research interests include biomedical readout amplifiers and data converters, low-power, low-noise, mixed-signal circuits and systems for optical sensors and other wearable biomedical applications.
+His research interests include biomedical readout amplifiers and data converters, low-power, low-noise, mixed-signal circuits and systems for wearable/implantable/ingestible biomedical applications.
 </div>
 
 
